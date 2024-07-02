@@ -1,6 +1,6 @@
-# React Gold.tsx
+# Boiler-Plate React
 
-![image](https://user-images.githubusercontent.com/2917027/168412960-87809a0b-a8cc-4521-91bf-e2cf7d4018ab.png)
+This repo has been [forked](https://github.com/Midnight-Coder/react-gold-tsx/) from Midnight-Coder, all credits goes to them.
 
 ### Stack: React, Material UI { using ts(x) }
 
